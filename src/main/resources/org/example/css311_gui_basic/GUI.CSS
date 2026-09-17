@@ -1,0 +1,24 @@
+.root {
+    -fx-background-color: #f4f8fc;
+}
+
+.name-label {
+    -fx-font-family: "Times New Roman";
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #1565c0;
+}
+
+.action-button {
+    -fx-background-color: #1976d2;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8px;
+    -fx-padding: 8px 20px;
+    -fx-cursor: hand;
+}
+
+.action-button:hover {
+    -fx-background-color: #0d47a1;
+}
